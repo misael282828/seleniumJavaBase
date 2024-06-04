@@ -13,3 +13,6 @@ Q
 !src/main/java/Page/LoginPage.java,7\c\7c4e97f9e5569fc37f66cf979190e18bb1fc9891
 D
 SeleniumJavaBase.iml,f\a\fa814ffc6a42e85c3e02ae6feb16bc420a726e18
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

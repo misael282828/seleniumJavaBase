@@ -25,10 +25,10 @@ public class SignupTest extends BaseTest {
     // Validar que estamos en la página correcta
     Assert.assertEquals( currentUrl, expectedUrl, "this is what we want");
   }
+
+  @Test(description = "nuevo test de prueba")
+  public void imprimiendo(){
+    System.out.println("esto es un ejemplo !!");
+  }
+
 }
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/misael282828/seleniumJavaBase.git
- git push -u origin main
